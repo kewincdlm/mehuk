@@ -1,0 +1,160 @@
+*{
+  margin:0;
+  padding: 0;
+
+}
+header, section,footer,aside,nav,article,hgroup,div{
+  display: block;
+}
+h1 {
+  width: 1500px;
+  font-size: auto; 
+	font-family: Kristen ITC;
+  font-weight: bold;
+  background-image: url(file:///C:/Users/kew-kei/Desktop/KEWIN/pagina/img/carga.gif);
+  position: center;
+  margin-top: 0px;
+  margin-left: 10px: 
+  margin-right: 1px;
+}
+h2{
+  width: 1500px;
+  padding: 15px auto;
+  margin-top: 150px auto
+}
+
+body {
+  width: auto;
+  background-color: lightblue;  
+}
+.naveg {
+  list-style: none;
+  background: #CF624B;
+  width: 1500px;
+  font-size: 35px; 
+  font-weight: bold;
+  position: center;
+
+} 
+
+.naveg a {
+   list-style: none;
+  background: #FF3106;
+  width: 1500px;
+  font-size: 25px; 
+  font-weight: bold;
+  position: center;
+  padding: 5px;
+  color: black
+   
+} 
+.pricen{
+  margin: auto;
+  width: 1500px;
+  background: green;
+}
+.pric{
+  margin: auto;
+  width: 1500px;
+  background: green;
+}
+section{
+  border: 1px dashed black;
+}
+.principal{
+  float: left
+   margin: auto 0;
+  width: 1500px;
+  background: blue
+}
+.primer{
+  float: left;
+   margin: auto 0;
+  width: 450px;
+  background: #FF3106  ;
+}
+
+.primer h3{
+  text-align:center;
+  font-size: 15px;
+  margin: auto;
+  width: 450px;
+  background: blue;
+  margin-top: 150px auto
+}
+.primer img{
+  float: left;
+  margin: auto;
+  width: 200px;
+  background: 
+}
+.primer span{
+  float: left;
+  margin: auto;
+  width: 200px;
+  background: yellow;
+}
+
+.segundo{
+  float: right;
+   margin: auto;
+  width: 450px;
+  background: black;
+
+}
+.segundo h3{
+  text-align:center;
+  font-size: 15px;
+  margin: 1px;
+  width: 450px;
+  background: blue;
+  margin-top: 150px auto
+}
+.segundo img{
+  float: left;
+  margin: 1px;
+  width: 200px;
+  background: red
+}
+.segundo span{
+  float: left;
+  margin: 1px;
+  width: 200px;
+  background: yellow;
+}
+.tercero{
+ 
+ float: center;
+  margin: auto;
+  width: 500px;
+  background: #5397FF ;
+
+}
+.tercero h3{
+  text-align:center;
+  font-size: 15px;
+  margin: 1px;
+  width: 450px;
+  background: green;
+  margin-top: 150px auto
+}
+.tercero img{
+  float: left;
+  margin: 1px;
+  width: 200px;
+  background: red
+}
+.tercero span{
+  float: left;
+  margin: 1px;
+  width: 200px;
+  background: yellow;
+}
+.piew{
+    position:absolute;
+    bottom:5px;
+    right:10px;
+}
+
+
+
